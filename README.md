@@ -21,7 +21,7 @@ Expert in PHP, fluent in C#, confident in Python.
 
 <br />
 
-### Languages and Databases:
+### Languages, frameworks and databases:
 [<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />](https://www.php.net)
 [<img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />](https://laravel.com/)
 [<img align="left" alt="Symfony" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png" />](https://symfony.com/)
