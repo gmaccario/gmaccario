@@ -19,8 +19,12 @@ Expert in PHP, fluent in C#, confident in Python.
 ### Connect with me
 [<img align="left" alt="giuseppemaccario.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.giuseppemaccario.com/)
 
-### Languages and Tools:
+<br />
+
+### Languages and Databases:
 [<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />](https://www.php.net)
+[<img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />](https://laravel.com/)
+[<img align="left" alt="Symfony" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png" />](https://symfony.com/)
 [<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />](https://www.mysql.com)
