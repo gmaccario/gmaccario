@@ -21,16 +21,17 @@ Expert in PHP, fluent in C#, confident in Python.
 
 <br />
 
-### Languages, frameworks and databases:
+### Languages, frameworks and databases
 [<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />](https://www.php.net)
 [<img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />](https://laravel.com/)
 [<img align="left" alt="Symfony" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png" />](https://symfony.com/)
 [<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com/)
+[<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />](https://www.docker.com/)
 [<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />](https://www.mysql.com)
 [<img align="left" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="Vue" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />](https://vuejs.org/)
-[<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />](https://getbootstrap.com/)
 [<img align="left" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
