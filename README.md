@@ -1,6 +1,6 @@
 ### Hi! I am Giuseppe Maccario aka [gmaccario](https://github.com/gmaccario)
 
-#### I'm a Software Developer and I live Amsterdam (NL). 
+#### I'm a Software Developer and I live in Amsterdam (NL). 
 
 My web development roots are in pure code: PHP and Python 🐍, HTML, Javascript, CSS, and MySQL.
 
@@ -8,7 +8,7 @@ What I do:
 - I am currently working on Laravel projects
 - I work on PHP frameworks since Symfony 1.4 in 2010 
 - I write and maintain free WordPress Plugins as side project 
-- I built few websites about music and I help the owner in order to maintain them running smoothly
+- I built few websites about Hip Hop music and I help the owner in order to maintain them running smoothly
 - I currently use Docker 🐳 for dockerizing every web app on which I work on
 - I worked around 6 years as C# developer, with everything that goes with it :satisfied:
 
