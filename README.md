@@ -7,10 +7,10 @@ My web development roots are in pure code: PHP and Python 🐍, HTML, Javascript
 What I do:
 - I am currently working on Laravel projects
 - I work on PHP frameworks since Symfony 1.4 in 2010 
-- I write and maintain free WordPress Plugins as side project 
 - I built few websites about Hip Hop music and I help the owner in order to maintain them running smoothly
 - I currently use Docker 🐳 for dockerizing every web app on which I work on
 - I worked around 6 years as C# developer, with everything that goes with it :satisfied:
+- I wrote and maintained free WordPress Plugins as side project (not anymore!)
 
 My professional story as a software developer started in 2005. At that time Javascript was different depending on the browser and no frameworks were available on the market. I gained a lot of experience in large companies working on high traffic websites such as London2012.com and Fifa.com. As a Software Developer in Amsterdam (NL) I worked for media and technology companies. 
 
