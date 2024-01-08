@@ -1,8 +1,8 @@
 ### Hi! I am Giuseppe Maccario aka [gmaccario](https://github.com/gmaccario)
 
-#### I'm a Software Developer and I live in Amsterdam (NL). 
+#### I'm a Software Developer, and I live in Amsterdam (NL). 
 
-My web development roots are in pure code: PHP and Python 🐍, HTML, Javascript, CSS, and MySQL.
+My web development roots are in pure code: PHP🐘 and Python 🐍, HTML, Javascript, CSS, and MySQL.
 
 What I do:
 - I am currently working on Laravel projects
