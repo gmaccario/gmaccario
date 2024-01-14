@@ -9,7 +9,7 @@ What I do:
 - I have worked on PHP frameworks since Symfony 1.4 in 2010 
 - I built a few websites about Hip Hop music, and I helped the owner to keep them running smoothly
 - I currently use Docker 🐳 for dockerizing every web app on which I work on
-- I worked for around 6 years as a C# developer :satisfied:
+- I worked for around 6 years as a C# developer
 - I wrote and maintained free WordPress Plugins as a side project
 
 My professional story as a software developer started in 2005. At that time Javascript was different depending on the browser and no frameworks were available on the market. I gained a lot of experience in large companies working on high-traffic websites such as London2012.com and Fifa.com. As a Software Developer in Amsterdam (NL) I worked for media and technology companies. 
