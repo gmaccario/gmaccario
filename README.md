@@ -1,20 +1,18 @@
 ### Hi! I am Giuseppe Maccario aka [gmaccario](https://github.com/gmaccario)
 
-#### I'm a Software Developer, and I live in Amsterdam (NL). 
+#### I'm a Software development professional with 15+ years of experience, and I live in Amsterdam (NL). 
 
-My web development roots are in pure code: PHP🐘 and Python 🐍, HTML, Javascript, CSS, and MySQL.
+I have a solid foundation in web development, with expertise in PHP 🐘, Python 🐍, HTML, JavaScript, CSS, and MySQL. My journey as a software developer began in 2005, during a time when JavaScript behavior varied between browsers and frameworks were yet to emerge. Over the years, I’ve had the privilege of contributing to high-traffic platforms such as London2012.com and Fifa.com.
 
 What I do:
 - I have worked on PHP frameworks since Symfony 1.4 in 2010 
-- I am currently working on Laravel projects
-- I currently use Docker 🐳 for dockerizing every web app on which I work on
+- I am currently working on Laravel and Symfony projects
 - I worked for around 6 years as a C# developer
-- I wrote and maintained free WordPress Plugins as a side project
-- I built a few websites about Hip Hop music, and I helped the owner to keep them running smoothly
+- I built and maintains a Laravel side-project for the Italian market
+- I built and maintains music-related websites, and I helped the owner to keep them running smoothly
+- I built and maintained free WordPress Plugins as a side project (not anymore!)
 
-My professional story as a software developer started in 2005. At that time Javascript was different depending on the browser, and no frameworks were available on the market. I gained a lot of experience in large companies working on high-traffic websites such as London2012.com and Fifa.com. As a Software Developer in Amsterdam (NL) I worked for media and technology companies. 
-
-Expert in PHP, fluent in C#, confident in Python. 
+Expert in PHP, with a background in C# and Python, though currently focused on PHP.
 
 ### Connect with me
 [<img align="left" alt="giuseppemaccario.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.giuseppemaccario.com/)
