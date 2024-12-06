@@ -4,7 +4,7 @@
 
 I have a solid foundation in web development, with expertise in PHP 🐘, Python 🐍, HTML, JavaScript, CSS, and MySQL. My journey as a software developer began in 2005, during a time when JavaScript behavior varied between browsers and frameworks were yet to emerge. Over the years, I’ve had the privilege of contributing to high-traffic platforms such as London2012.com and Fifa.com.
 
-What I do:
+Me, in bullet points:
 - I have worked on PHP frameworks since Symfony 1.4 in 2010 
 - I am currently working on Laravel and Symfony projects
 - I worked for around 6 years as a C# developer
